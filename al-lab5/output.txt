@@ -1,0 +1,75 @@
+	Set container for custom Vehicle class: 
+Vehicle Parameters:
+Model: Lada Granta Cross
+Fuel consumption at the highway: 5.2, in the city: 8.7, mixed: 6.5
+Max speed: 178
+Engine power: 106
+
+Vehicle Parameters:
+Model: Lada Largus Cross
+Fuel consumption at the highway: 6.3, in the city: 10.2, mixed: 7.8
+Max speed: 170
+Engine power: 106
+
+Vehicle Parameters:
+Model: Lada Niva Legend
+Fuel consumption at the highway: 8.3, in the city: 12.1, mixed: 9.9
+Max speed: 142
+Engine power: 83
+
+Vehicle Parameters:
+Model: Lada Niva Travel
+Fuel consumption at the highway: 8.5, in the city: 13.4, mixed: 10.2
+Max speed: 140
+Engine power: 80
+
+Vehicle Parameters:
+Model: Lada Vesta Sedan
+Fuel consumption at the highway: 6.3, in the city: 10.1, mixed: 7.7
+Max speed: 181
+Engine power: 122
+
+Vehicle Parameters:
+Model: Lada Vesta SW Sportline
+Fuel consumption at the highway: 5.8, in the city: 9.9, mixed: 7.4
+Max speed: 186
+Engine power: 118
+
+
+	Unordered Set container for custom Vehicle class: 
+Vehicle Parameters:
+Model: Lada Granta Cross
+Fuel consumption at the highway: 5.2, in the city: 8.7, mixed: 6.5
+Max speed: 178
+Engine power: 106
+
+Vehicle Parameters:
+Model: Lada Vesta SW Sportline
+Fuel consumption at the highway: 5.8, in the city: 9.9, mixed: 7.4
+Max speed: 186
+Engine power: 118
+
+Vehicle Parameters:
+Model: Lada Largus Cross
+Fuel consumption at the highway: 6.3, in the city: 10.2, mixed: 7.8
+Max speed: 170
+Engine power: 106
+
+Vehicle Parameters:
+Model: Lada Niva Travel
+Fuel consumption at the highway: 8.5, in the city: 13.4, mixed: 10.2
+Max speed: 140
+Engine power: 80
+
+Vehicle Parameters:
+Model: Lada Niva Legend
+Fuel consumption at the highway: 8.3, in the city: 12.1, mixed: 9.9
+Max speed: 142
+Engine power: 83
+
+Vehicle Parameters:
+Model: Lada Vesta Sedan
+Fuel consumption at the highway: 6.3, in the city: 10.1, mixed: 7.7
+Max speed: 181
+Engine power: 122
+

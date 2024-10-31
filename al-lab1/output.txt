@@ -1,0 +1,42 @@
+Here is the implemention of Hangar class(V20) with vector 
+
+Details of hangar 1: 
+Width: 10 meters
+Length: 20 meters
+Area: 200 square meters
+
+
+Details of hangar 2: 
+Width: 50 meters
+Length: 90 meters
+Area: 4500 square meters
+
+
+Details of hangar 3: 
+Width: 400 meters
+Length: 42 meters
+Area: 16800 square meters
+
+Total area of all hangars: 21500 square meters
+
+Here is the implemention of Hangar class(V20) with dynamic array 
+
+Details of hangar 1: 
+Width: 10 meters
+Length: 20 meters
+Area: 200 square meters
+
+
+Details of hangar 2: 
+Width: 50 meters
+Length: 90 meters
+Area: 4500 square meters
+
+
+Details of hangar 3: 
+Width: 400 meters
+Length: 42 meters
+Area: 16800 square meters
+
+Total area of all hangars: 21500 square meters
+
